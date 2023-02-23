@@ -13,18 +13,19 @@ O conversor de unidades foi criado para realizar a conversão de valores em moed
 
 ## Funcionalidades
 
-- Conversor de moedas: Real, Dólar, Euro, Libra e Won coreano.
-Tela para seleção do tipo de conversor:
-![](imagens/menu.png)
+- Conversor de moedas: Real, Dólar, Euro, Libra e Won coreano.  
 
-Tela para inserir o valor a converter:
-![](imagens/valorEntrada.png)
+Tela para seleção do tipo de conversor:  
+![](imagens/menu.png)  
 
-Tela para selecionar as moedas utilizadas na conversão:
-![](imagens/selecionarMoeda.png)
+Tela para inserir o valor a converter:  
+![](imagens/valorEntrada.png)  
 
-Tela mostrando resultado:
-![](imagens/resultado.png)
+Tela para selecionar as moedas utilizadas na conversão:  
+![](imagens/selecionarMoeda.png)  
+
+Tela mostrando resultado:  
+![](imagens/resultado.png)  
 
 ## Tecnologia:
 
